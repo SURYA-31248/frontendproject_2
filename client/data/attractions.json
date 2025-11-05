@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Taj Mahal",
+    "location": "Agra, Uttar Pradesh",
+    "category": "Monument",
+    "rating": 4.9,
+    "coordinates": { "lat": 27.1751, "lng": 78.0421 },
+    "description": "One of the Seven Wonders of the World, a stunning marble mausoleum.",
+    "image": "https://images.unsplash.com/photo-1533885299318-6b8da08a523e?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Gateway of India",
+    "location": "Mumbai, Maharashtra",
+    "category": "Monument",
+    "rating": 4.5,
+    "coordinates": { "lat": 18.9220, "lng": 72.8347 },
+    "description": "Iconic arch monument overlooking the Arabian Sea in Mumbai.",
+    "image": "https://images.unsplash.com/photo-1518684013529-59627e76b321?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Varanasi Ghats",
+    "location": "Varanasi, Uttar Pradesh",
+    "category": "Religious",
+    "rating": 4.7,
+    "coordinates": { "lat": 25.3201, "lng": 82.9856 },
+    "description": "Sacred ghats along the Ganges River, spiritual center of India.",
+    "image": "https://images.unsplash.com/photo-1571860408663-e7d67f7a0c25?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Hawa Mahal",
+    "location": "Jaipur, Rajasthan",
+    "category": "Monument",
+    "rating": 4.4,
+    "coordinates": { "lat": 26.9269, "lng": 75.8231 },
+    "description": "The iconic pink five-story honeycomb structure in Jaipur.",
+    "image": "https://images.unsplash.com/photo-1551521478-8a36ed8f7ad0?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Dal Lake",
+    "location": "Srinagar, Kashmir",
+    "category": "Nature",
+    "rating": 4.8,
+    "coordinates": { "lat": 34.0837, "lng": 75.5158 },
+    "description": "Beautiful lake with houseboats and scenic beauty.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Backwaters of Kerala",
+    "location": "Kochi, Kerala",
+    "category": "Nature",
+    "rating": 4.9,
+    "coordinates": { "lat": 9.9312, "lng": 76.2673 },
+    "description": "Picturesque waterways with lush greenery and fishing nets.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Kanyakumari Beach",
+    "location": "Kanyakumari, Tamil Nadu",
+    "category": "Beach",
+    "rating": 4.6,
+    "coordinates": { "lat": 8.0883, "lng": 77.5385 },
+    "description": "Southern tip of India where three seas meet.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Red Fort",
+    "location": "Delhi",
+    "category": "Monument",
+    "rating": 4.5,
+    "coordinates": { "lat": 28.6562, "lng": 77.2410 },
+    "description": "Historic red sandstone fort in the heart of Delhi.",
+    "image": "https://images.unsplash.com/photo-1551632440-47e5996ca59c?w=600&h=400&fit=crop"
+  }
+]

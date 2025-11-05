@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Beachfront Cottage",
+    "location": "Goa, India",
+    "price": 45,
+    "rating": 4.8,
+    "reviews": 128,
+    "image": "https://images.unsplash.com/photo-1470115716159-e389f8712fda?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1470115716159-e389f8712fda?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&h=800&fit=crop"
+    ],
+    "description": "Experience the ultimate tropical getaway at our stunning beachfront cottage. Wake up to the sound of waves and enjoy fresh coconuts on your private balcony.",
+    "guests": 4,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "amenities": ["WiFi", "Kitchen", "AC", "Beach Access", "Outdoor Shower"],
+    "host": {
+      "name": "Priya Sharma",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+      "joinDate": "2020-01-15"
+    },
+    "reviews_data": [
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Absolutely magical experience! The view is spectacular.",
+        "date": "2024-01-15"
+      },
+      {
+        "author": "James L.",
+        "rating": 4.5,
+        "text": "Great location and friendly host. Highly recommend!",
+        "date": "2024-01-10"
+      }
+    ],
+    "coordinates": { "lat": 15.2993, "lng": 73.8243 }
+  },
+  {
+    "id": 2,
+    "title": "Traditional Kerala Houseboat",
+    "location": "Kochi, Kerala",
+    "price": 65,
+    "rating": 4.9,
+    "reviews": 245,
+    "image": "https://images.unsplash.com/photo-1568581095594-d6ad7e8e8aa9?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1568581095594-d6ad7e8e8aa9?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1200&h=800&fit=crop"
+    ],
+    "description": "Sail through the enchanting backwaters of Kerala on a traditional houseboat. Experience authentic local culture and stunning nature.",
+    "guests": 6,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "amenities": ["Boat Tours", "Cooking Class", "WiFi", "Deck Area", "AC Rooms"],
+    "host": {
+      "name": "Rajesh Kumar",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "joinDate": "2018-05-20"
+    },
+    "reviews_data": [
+      {
+        "author": "Emma T.",
+        "rating": 5,
+        "text": "Once in a lifetime experience! The backwater views are breathtaking.",
+        "date": "2024-01-12"
+      }
+    ],
+    "coordinates": { "lat": 9.9312, "lng": 76.2673 }
+  },
+  {
+    "id": 3,
+    "title": "Mountain Villa with Sunset View",
+    "location": "Shimla, Himachal Pradesh",
+    "price": 55,
+    "rating": 4.7,
+    "reviews": 189,
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=800&fit=crop"
+    ],
+    "description": "Nestled in the Himalayas, this villa offers panoramic mountain views and a cozy atmosphere perfect for a peaceful retreat.",
+    "guests": 5,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "amenities": ["Fireplace", "Telescope", "Hiking Trails", "WiFi", "Heater"],
+    "host": {
+      "name": "Aman Singh",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+      "joinDate": "2019-03-10"
+    },
+    "reviews_data": [
+      {
+        "author": "Michael P.",
+        "rating": 4.8,
+        "text": "Perfect for a peaceful getaway. Amazing sunsets!",
+        "date": "2024-01-08"
+      }
+    ],
+    "coordinates": { "lat": 31.7975, "lng": 77.1721 }
+  },
+  {
+    "id": 4,
+    "title": "Desert Camp Experience",
+    "location": "Jaisalmer, Rajasthan",
+    "price": 35,
+    "rating": 4.6,
+    "reviews": 156,
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&h=800&fit=crop"
+    ],
+    "description": "Experience the magical desert under starlit skies. Traditional Rajasthani hospitality with modern comfort in authentic desert camps.",
+    "guests": 4,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "amenities": ["Camel Safari", "Bonfire", "Traditional Food", "WiFi", "AC Tent"],
+    "host": {
+      "name": "Fatima Khan",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+      "joinDate": "2021-07-22"
+    },
+    "reviews_data": [
+      {
+        "author": "Lisa R.",
+        "rating": 4.5,
+        "text": "Incredible experience! The desert is breathtaking.",
+        "date": "2024-01-05"
+      }
+    ],
+    "coordinates": { "lat": 26.9124, "lng": 70.9055 }
+  },
+  {
+    "id": 5,
+    "title": "Contemporary Urban Loft",
+    "location": "Mumbai, Maharashtra",
+    "price": 75,
+    "rating": 4.8,
+    "reviews": 312,
+    "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=1200&h=800&fit=crop"
+    ],
+    "description": "Modern loft in the heart of Mumbai with rooftop views, perfect for exploring the city's vibrant culture and cuisine.",
+    "guests": 3,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "amenities": ["Rooftop Access", "City Views", "Kitchen", "WiFi", "Concierge"],
+    "host": {
+      "name": "Arjun Patel",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "joinDate": "2017-11-05"
+    },
+    "reviews_data": [
+      {
+        "author": "David M.",
+        "rating": 5,
+        "text": "Best base for exploring Mumbai! Great location.",
+        "date": "2024-01-03"
+      }
+    ],
+    "coordinates": { "lat": 19.0760, "lng": 72.8777 }
+  },
+  {
+    "id": 6,
+    "title": "Organic Farmstay",
+    "location": "Ooty, Tamil Nadu",
+    "price": 40,
+    "rating": 4.7,
+    "reviews": 98,
+    "image": "https://images.unsplash.com/photo-1464146072230-91cabc968266?w=800&h=600&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1464146072230-91cabc968266?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1464146072230-91cabc968266?w=1200&h=800&fit=crop",
+      "https://images.unsplash.com/photo-1464146072230-91cabc968266?w=1200&h=800&fit=crop"
+    ],
+    "description": "Stay on an organic farm and experience sustainable living. Pick fruits, cook traditional meals, and connect with nature.",
+    "guests": 5,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "amenities": ["Farm Activities", "Organic Food", "Hiking", "WiFi", "Peaceful"],
+    "host": {
+      "name": "Lakshmi Gopal",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+      "joinDate": "2019-09-14"
+    },
+    "reviews_data": [
+      {
+        "author": "Sophie K.",
+        "rating": 4.8,
+        "text": "Wonderful escape from city life. Very welcoming hosts.",
+        "date": "2024-01-01"
+      }
+    ],
+    "coordinates": { "lat": 11.4102, "lng": 76.6950 }
+  }
+]
